@@ -21,7 +21,7 @@
 
 - 🔭 I'm trying to set a record, watching anime 1 season in a day.
 
-- 📝 Thanks To [`Team Provider Xploit`](https://github.com/KiZakiXd).
+- 📝 Thanks To [`My Self`](https://github.com/KiZakiXd).
 
 - 🎩 Thanks To All Mastah.
 
