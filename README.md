@@ -91,4 +91,4 @@ I like turning ideas into production-grade systems: measurable, resilient, and a
 
 ---
 
-> Building quietly. Shipping relentlessly.
+> Just for fun.
