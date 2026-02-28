@@ -1,66 +1,39 @@
-## Ngapain Kak?
+![Header](https://i.ibb.co/93btFH2c/image-29.jpg)
 
-<h1 align="center"> ザキです<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm KiZakiXD</h1>
+## 👋 Halo, I'm KiZakiXD | Just a Hobby Coder & Learner
 
-<p align="center">
+**🔧 Yang lagi saya pelajari & mainin:**
+- JavaScript • Python • TypeScript
+- Next.js • React • Docker
 
-<img src="https://i.ibb.co/StYpMQt/null-20211216-WA0102.jpg" width="100%" alt="API Giphy logo"/>
+**🤖 Proyek Saat Ini (hanya hobi ya, bukan kerja utama!):**
+- EA Developer → Robot Trading (Expert Advisor)
+- Developer Bot WhatsApp & Telegram → N'Zey Assistant
 
-</p>
+**🚀 Kontribusi (level hobi):**
+- Ikut tim pengembang Ethereum Base → https://github.com/base
+- Ikut tim AI Xiaomi → https://github.com/xiaomi
 
-[<img src="https://img.shields.io/badge/whatsapp-%808080.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://chat.whatsapp.com/JJvSGnI5WYh0Xl9qw9YGRA)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/KiZakiXD)
-[<img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://m.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D)
-[<img src="https://img.shields.io/badge/github-%23E4405F.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/KiZakiXD)
+**🎮 Lain-lain:**
+- Gaming, Anime, Coding buat fun aja
+- Bukan full-time developer, cuma passion & belajar sendiri
 
-### I &nbsp;Personal Stuffs
+## 📊 Statistik GitHub (biar keliatan progress belajar saya)
 
-- 💻 I'm currently learning `JavaScript` ⚗.
+![Stats](https://github-readme-stats.vercel.app/api?username=kizakixd&show_icons=true&theme=radical&hide_border=true)
 
-- 🤓 I'm a copy paste master.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kizakixd&layout=compact&theme=radical&hide_border=true)
 
-- 🔭 I'm trying to set a record, watching anime 1 season in a day.
+## 🛠 Teknologi yang Saya Sentuh
 
-- 📝 Thanks To [`My Self`](https://github.com/KiZakiXd).
-
-- 🎩 Thanks To All Mastah.
-
-- Languages: &nbsp;
- 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-- Frameworks: &nbsp;
-
-  ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### ⚙ &nbsp;GitHub Analytics
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-<p align="center">
-
-  <a href="https://github.com/KiZakiXD"><img src="https://github-readme-stats.vercel.app/api?username=KiZakiXD&theme=tokyonight&show_icons=true" /></a>
-
-</p>
-
-<p align="center">
-
-  <a href="https://github.com/KiZakiXD"><img src="https://github-readme-streak-stats.herokuapp.com?user=KiZakiXD&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
-
-</p>
-
-  
-
-<p align="center">
-
-  <a href="https://github.com/KiZakiXD"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KiZakiXD&theme=tokyonight&layout=compact" /></a>
-
-</p>
-
-  
-
-<p align="center">
-
-  <a href="https://github.com/KiZakiXD"><img src="https://github-profile-trophy.vercel.app/?username=KiZakiXD&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
-
-</p>
+Terima kasih udah mampir! 😄  
+Kalau ada saran atau mau collab buat fun, DM aja di IG/Twitter/GitHub.
